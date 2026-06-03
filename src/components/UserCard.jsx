@@ -2,7 +2,7 @@ import './UserCard.css'
 
 function UserCard(props) {
   return (
-    <div className='tarjeta'>UserCard
+    <div className='tarjeta'>
         <img src={props.imagen} alt="Foto de perfil" className='tarjeta-img'/>
         <div className="tarjeta-info">
             <h3>{props.nombre}</h3>

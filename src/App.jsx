@@ -17,19 +17,19 @@ function App() {
           {/* Reutilización Máxima: pasamos props */}
           <UserCard 
             nombre='Ana Garcia'
-            profesion='Desarrollador'
+            profesion='Frontend Developer'
             imagen='https://randomuser.me/api/portraits/women/3.jpg'
           />
 
           <UserCard 
             nombre='Juan Perez'
-            profesion='Diseñador'
+            profesion='UX/UI Designer'
             imagen='https://randomuser.me/api/portraits/men/3.jpg'
           />
 
           <UserCard 
             nombre='Luisa Rodriguez'
-            profesion='Diseñadora'
+            profesion='DevOps Engineer'
             imagen='https://randomuser.me/api/portraits/women/44.jpg'
           />
         </section>

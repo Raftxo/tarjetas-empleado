@@ -1,0 +1,15 @@
+{
+  "sessions": [
+    {
+      "id": "session_1780593488526_ccfmir5",
+      "title": "New Session",
+      "timestamp": 1780593488526,
+      "messageCount": 0,
+      "messages": []
+    }
+  ],
+  "messages": {
+    "session_1780593488526_ccfmir5": []
+  },
+  "activeSessionId": "session_1780593488526_ccfmir5"
+}

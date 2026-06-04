@@ -11,7 +11,7 @@ function App() {
       <header className='cabecera-app'>
         {/* Solución: 1. La imagen de public se llama directamente con una barra (/) */}
         <img src="/banner.jpeg" alt="Banner de empleados" className='imagen-banner'/>
-        <h1>Directorio de empleados</h1>
+        <h1>Directorio de empleadas</h1>
         <p>Aprende React usando arquitectura correcta.</p>
         </header>
         {/* Aquí usamos Grid o Flexbox en App.css para alinear las tarjetas */}

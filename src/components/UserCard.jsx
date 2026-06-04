@@ -36,9 +36,9 @@ function UserCard(props) {
     <div className="p-6 text-center">
       <h3 className="text-xl font-bold text-gray-800">{props.nombre}</h3>
       <p className="text-sm text-gray-500 my-3 flex items-center justify-center gap-2">{props.profesion}
-        <img src={iconoLinkedIn} alt="Icono LinkedIn" className="w-6 h-6" />
+        <img src={iconoLinkedIn} alt="Icono LinkedIn" className="w-6 h-6 group-hover:animate-bounce" />
       </p>
-      <button className="mt-4 bg-blue-600 hover:bg-blue-700 text-white 
+      <button className="group/btn mt-4 bg-blue-800 hover:bg-blue-500 text-white 
                           py-2 px-6 rounded-full transition-colors">
         Conectar
       </button>

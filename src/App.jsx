@@ -24,9 +24,9 @@ function App() {
           />
 
           <UserCard 
-            nombre='Juan Pérez'
+            nombre='Juana Pérez'
             profesion='UX/UI Designer'
-            imagen='https://randomuser.me/api/portraits/men/3.jpg'
+            imagen='https://randomuser.me/api/portraits/women/92.jpg'
           />
 
           <UserCard 
